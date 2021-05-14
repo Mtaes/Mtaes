@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm an artificial intelligence and machine learning enthusiast
+
+You can find me on:
+- [LinkedIn](https://www.linkedin.com/in/mateusz-kujawski-314a1820a/)
+- [Kaggle](https://www.kaggle.com/plyger)
+
+You can also contact me here: mateusz_kujawski@outlook.com
+
 <!--
 **Mtaes/Mtaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
