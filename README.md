@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm an artificial intelligence and machine learning enthusiast
+I'm an artificial intelligence and machine learning enthusiast.
 
 You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/mateusz-kujawski-314a1820a/)
-- [Kaggle](https://www.kaggle.com/plyger)
+- [Kaggle](https://www.kaggle.com/plyger) where I post my data science and machine learning code
 
 You can also contact me here: mateusz_kujawski@outlook.com
 
